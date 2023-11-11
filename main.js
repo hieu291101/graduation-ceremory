@@ -1,5 +1,7 @@
 window.onload = function() {
     window.alert("Hãy truy cập bằng máy tính để có thể trải nghiệm tốt hơn nha");
+    var x = document.getElementById("myAudio");
+    x.play();
 }
 
 document.addEventListener('DOMContentLoaded', function() {
