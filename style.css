@@ -62,7 +62,7 @@
   }
   
   .page-wrapper {
-    background: url(./files/1572431.jpg);
+    background-image: url(./files/1572431.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
