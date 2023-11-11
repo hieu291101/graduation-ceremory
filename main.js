@@ -1,5 +1,5 @@
 window.onload = function() {
-    window.alert("Hãy truy cập bằng máy tính để có thể trải nghiệm tốt hơn nha\nNhớ nhấn OPEN nữaaaaaa");
+    window.alert("Hãy truy cập bằng máy tính để có thể trải nghiệm tốt hơn nha");
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -11,4 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
       document.getElementsByClassName('card-packaging')[0].classList.remove('is-open')
     })
   });
+
+
 
